@@ -20,7 +20,7 @@ module.exports.format = format
 module.exports.token = token
 
 /**
- * Module dependencies.
+ * Module dependencies. qweqwe
  * @private
  */
 
